@@ -8,7 +8,7 @@ https://zh.wix.com/website-template/view/html/2622?originUrl=https%3A%2F%2Fzh.wi
 
 ## Result
 
-### 原坂網站
+### 原版網站
 
 ![別人的網站](/images/others_website.png)
 
