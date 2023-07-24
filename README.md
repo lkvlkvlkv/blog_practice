@@ -1,16 +1,17 @@
 # blog_practice
 
-A new Flutter project.
+一個試著模仿別人部落格的 flutter 練習
 
-## Getting Started
+## Reference
 
-This project is a starting point for a Flutter application.
+https://zh.wix.com/website-template/view/html/2622?originUrl=https%3A%2F%2Fzh.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv%2Fpersonal&tpClick=view_button&esi=3bb071fb-f32f-4042-b6c7-c48ce5659ebb
 
-A few resources to get you started if this is your first Flutter project:
+## Result
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 原坂網站
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![別人的網站](/images/others_website.png)
+
+### 練習成品
+
+![我的仿作](/images/imitate_website.png)
