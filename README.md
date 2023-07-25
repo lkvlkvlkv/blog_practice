@@ -18,5 +18,5 @@ https://zh.wix.com/website-template/view/html/2622?originUrl=https%3A%2F%2Fzh.wi
 
 ## 筆記
 
-[HackMD 筆記](https://hackmd.io/@LKV/blog_practice)
-[個人網站筆記](https://lkvlkvlkv.cloudaccess.host/007_%e9%83%a8%e8%90%bd%e6%a0%bc%e4%bb%bf%e4%bd%9c/)
+- [HackMD 筆記](https://hackmd.io/@LKV/blog_practice)
+- [個人網站筆記](https://lkvlkvlkv.cloudaccess.host/007_%e9%83%a8%e8%90%bd%e6%a0%bc%e4%bb%bf%e4%bd%9c/)
